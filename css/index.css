@@ -144,3 +144,22 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.head {
+   padding: 2%;
+   display: flex;
+   justify-content: space-between;
+}
+
+.navsel {
+    padding-top: 1.5%;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.mainimg {
+    background-image: url("/img/jumbo.jpg");
+    padding: 10%;
+    background-repeat: no-repeat;
+}
