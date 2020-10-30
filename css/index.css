@@ -217,6 +217,8 @@ footer nav a {
 .strategy {
     display: flex;
     flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
     padding-bottom: 4%;
     padding-top: 2%;
     line-height: 2.5rem;
@@ -257,3 +259,10 @@ footer nav a {
      align-items: center;
      margin-top: 3%;
  }
+
+ .sec{
+     display: flex;
+     flex-direction: column;
+     padding: 1% 1% 1% 1%;
+ }
+
