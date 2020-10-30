@@ -104,9 +104,9 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -144,3 +144,125 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.head {
+   padding: 2%;
+   display: flex;
+   justify-content: space-between;
+}
+
+.navsel {
+    padding-top: 1.5%;
+    padding-right: 3%;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.mainimg {
+    background-image: url("/img/jumbo.jpg");
+    padding: 10%;
+    background-repeat: no-repeat;
+}
+
+
+.middle-content .boxes .box.bx1 {
+    background-color: teal;
+}
+
+.middle-content .boxes .box.bx2 {
+    background-color: gold;
+}
+
+.middle-content .boxes .box.bx3 {
+    background-color: cadetblue;
+}
+
+.middle-content .boxes .box.bx4 {
+    background-color: coral;
+}
+
+.middle-content .boxes .box.bx5 {
+    background-color: crimson;
+}
+
+.middle-content .boxes .box.bx6 {
+    background-color: forestgreen;
+}
+
+.middle-content .boxes .box.bx7 {
+    background-color: darkorchid;
+}
+
+.middle-content .boxes .box.bx8 {
+    background-color: hotpink;
+}
+
+.middle-content .boxes .box.bx9 {
+    background-color: indigo;
+}
+
+.middle-content .boxes .box.bx10 {
+    background-color: dodgerblue;
+}
+
+.aboutimage img{
+    
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.strategy {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 4%;
+    padding-top: 2%;
+    line-height: 2.5rem;
+    border-top: 3px dotted black;
+    border-bottom: 3px dotted black;
+}
+
+.bigsec {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 2.5rem;;
+}
+
+ .end {
+     border-top: 3px dotted black;
+     padding: 4% 0% 2% 0%;
+ }
+
+ .abt {
+     padding: 2% 2% 2% 2%;
+
+ }
+
+ .learnmore {
+     padding: 1%;
+     width: 30%;
+     text-align: center;
+     border: 3px solid black;
+     border-radius: 15%;
+     text-decoration: none;
+     color: black;
+ }
+
+ .link {
+     display: flex;
+     align-items: center;
+     margin-top: 3%;
+ }
+
+ .sec{
+     display: flex;
+     flex-direction: column;
+     padding: 1% 1% 1% 1%;
+ }
+
