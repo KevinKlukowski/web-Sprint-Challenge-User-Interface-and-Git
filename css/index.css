@@ -204,3 +204,35 @@ footer nav a {
 .middle-content .boxes .box.bx10 {
     background-color: dodgerblue;
 }
+
+.aboutimage img{
+    
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.strategy {
+    display: flex;
+    flex-flow: row;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border-top: 3px dotted black;
+}
+
+.bigsec {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ .end {
+     border-top: 3px dotted black;
+     padding-top: 4%;
+ }
+
+ .abt {
+     padding: 2% 0% 2% 0%;
+ }
