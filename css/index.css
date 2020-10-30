@@ -153,6 +153,7 @@ footer nav a {
 
 .navsel {
     padding-top: 1.5%;
+    padding-right: 3%;
     text-decoration: none;
     color: black;
     
@@ -237,7 +238,7 @@ footer nav a {
  }
 
  .abt {
-     padding: 2% 0% 2% 0%;
+     padding: 2% 2% 2% 2%;
 
  }
 
